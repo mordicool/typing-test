@@ -1,0 +1,27 @@
+GET http://localhost:5000/index.html
+
+###
+
+GET http://localhost:5000/typing/1
+
+###
+
+GET http://localhost:5000/typing
+
+###
+
+GET http://localhost:5000/highscores/1
+
+###
+
+GET http://localhost:5000/highscores/1/5
+
+###
+
+POST http://localhost:5000/submit_highscore/1
+Content-Type: application/json
+
+{
+    "name": "Bot1",
+    "time": 8675
+}

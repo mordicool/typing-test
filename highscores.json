@@ -1,0 +1,60 @@
+{
+	"1": [
+		{
+			"name": "Yossi",
+			"time": 13000
+		},
+		{
+			"name": "Moshe",
+			"time": 24192
+		},
+		{
+			"name": "Mordi",
+			"time": 9426
+		},
+		{
+			"name": "Shlomo",
+			"time": 24192
+		},
+		{
+			"name": "Yarden",
+			"time": 63621
+		},
+		{
+			"name": "Kabul",
+			"time": 37312
+		},
+		{
+			"name": "Chai",
+			"time": 47043
+		}
+	],
+	"2": [
+		{
+			"name": "Yossi",
+			"time": 64542
+		},
+		{
+			"name": "Moshe",
+			"time": 9844
+		},
+		{
+			"name": "Mordi",
+			"time": 44632
+		}
+	],
+	"3": [
+		{
+			"name": "Yossi",
+			"time": 14222
+		},
+		{
+			"name": "Moshe",
+			"time": 26222
+		},
+		{
+			"name": "Mordi",
+			"time": 45111
+		}
+	]
+}

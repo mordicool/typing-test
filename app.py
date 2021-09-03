@@ -3,7 +3,7 @@ from flask.json import jsonify
 from flask_cors import CORS
 import controller
 
-app = Flask(__name__, static_url_path='', static_folder='typing_test_client/build')
+app = Flask(__name__, static_url_path='', static_folder='client_build')
 CORS(app)
 
 @app.route('/typing/<int:type_id>')
